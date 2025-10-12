@@ -14,11 +14,12 @@
 - [Neetcode 150 - All Questions Solved - part 2](https://www.youtube.com/watch?v=c9Myn-zYmJs&ab_channel=DestinationFAANG)
 - [Neetcode 150 - All Questions Solved - part 3](https://www.youtube.com/watch?v=OH44yPzzaWE&ab_channel=DestinationFAANG)
 - [AlgoMap.io - Free Data Structures & Algorithms Roadmap](https://algomap.io/roadmap)
+- ChatGPT is used to created comments and details of each heading
 
 # Headings for Code Documentation
 - 📌 Problem Statement 
-- 🧠 Code with Full Comments, 
-- 🧾 Library Function Definitions, 
-- 📈 Time & Space Complexity, 
-- 🪜 Step-by-Step Strategy, 
-- 🎯 Visualization with Example.
+- 🧠 Code with Full Comments
+- 🧾 Library Function Definitions
+- 📈 Time & Space Complexity
+- 🪜 Step-by-Step Strategy
+- 🎯 Visualization with Example
