@@ -7,6 +7,9 @@
 - Start Again: May 8 - in process
 
 # References
+- [Data Structure and Algorithm Patterns for LeetCode Interviews – Tutorial](https://www.youtube.com/watch?v=Z_c4byLrNBU)
+- [Fundamental DSA Theory - FreeCodeCamp](https://youtube.com/playlist?list=PLKYEe2WisBTGq9T0wPulXz1otUsVeOGey&si=IJOhQqOUlz1i6Sk1)
+- [Data Structures & Algorithms in Python - The Complete Pathway](https://www.youtube.com/playlist?list=PLKYEe2WisBTFEr6laH5bR2J19j7sl5O8R)
 - [Leetcode Problems](https://leetcode.com/problems/)
 -  [Neetcode 150 Course - Neetcode](https://www.youtube.com/playlist?list=PLPe9IkX86X3y5m_MvtNu2ughxsvkqUNKr)
 - [Neetcode 150 Course - FreeCodeCamp](https://www.youtube.com/watch?v=T0u5nwSA0w0&ab_channel=freeCodeCamp.org)
